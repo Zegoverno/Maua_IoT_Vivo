@@ -9,3 +9,6 @@ def par (x):
     
 x = entrada()
 par(x)
+
+# Nota: 1.0
+# Comentario: **

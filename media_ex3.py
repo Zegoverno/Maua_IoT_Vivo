@@ -12,3 +12,6 @@ while True:
         break
     notas.append(nota)
 print('Media: ',  media(notas))
+
+# Nota: 1.0
+# Comentario: muito bom
