@@ -2,7 +2,7 @@ import math
 
 def lerPonto ():
     return input("digite um ponto no formato (x,y): ").split(',')
-    
+
 
 def dist(p1,  p2):
     return math.sqrt((float(p1[0]) - float(p2[0])) ** 2 + (float(p1[1]) - float(p2[1])) ** 2)
@@ -19,3 +19,6 @@ pts = []
 for i in range(int(input('quantidade de pontos: '))):
     pts.append(lerPonto())
 print('a maior distancia eh {0}'.format(maiorDist(pts)))
+
+# Nota: 1.0
+# Muito bom!!!
