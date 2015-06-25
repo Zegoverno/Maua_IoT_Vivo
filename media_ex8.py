@@ -24,3 +24,6 @@ while True:
     notas.append(nota)
 print('Media: ',  media(notas))
 print('Maior nota: ', maiornota(notas))
+
+#Nota: 1.2 
+#Comentario: valia um, mas dei +0.2 pela elegancia da solucao
